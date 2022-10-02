@@ -1,0 +1,101 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0%;
+  font-family: poppins, sans-serif;
+}
+.gray {
+  color: #918e9b;
+}
+.bold {
+  font-weight: bold;
+}
+nav {
+  height: 140px;
+  display: flex;
+  padding: 20px 36px;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+section {
+  padding: 20px;
+}
+.hero {
+  display: flex;
+  flex-direction: column;
+}
+.hero--image {
+  max-width: 600px;
+  align-self: center;
+}
+.hero--header {
+  margin-bottom: 16px;
+}
+.hero--text {
+  margin-top: 0;
+}
+
+/* Card.js css */
+.card {
+  max-width: 275px;
+  font-size: 12px;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  margin-inline-start: 20px;
+  position: relative;
+}
+.img {
+  width: 100%;
+  margin-left: 30px;
+  border-radius: 9px;
+}
+.card-title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  justify-content: center;
+  margin-top: 5px;
+  margin-left: 23px;
+}
+i {
+  color: red;
+}
+.card-stats {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 30px;
+}
+.price {
+  align-items: center;
+  justify-content: center;
+  margin-top: -5px;
+  margin-left: 30px;
+}
+.card--badge {
+  position: absolute;
+  top: 6px;
+  left: 36px;
+  background-color: white;
+  padding: 5px 7px;
+  border-radius: 2px;
+  font-weight: bold;
+}
+
+/* Persian Cat style */
+.contacts {
+  max-width: 275px;
+  font-size: 12px;
+  display: flex;
+}
+.persian-cat {
+  width: 100%;
+  margin-left: 30px;
+  border-radius: 9px;
+}
+.info-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
