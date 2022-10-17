@@ -1,0 +1,82 @@
+.App {
+  width: 50%;
+  margin: 5% 20%;
+  box-shadow: 0px 0px 20px 2px rgba(0, 0, 0, 0.1),
+    2px 2px 20px 2px rgba(0, 0, 0, 0.1);
+}
+
+/* isGoingOut css */
+
+/* .state {
+  width: 50%;
+  height: 200px !important;
+  margin: auto;
+  height: 200%;
+  box-shadow: 0px 0px 20px 2px rgba(0, 0, 0, 0.1),
+    2px 2px 20px 2px rgba(0, 0, 0, 0.1);
+  background-color: black;
+  color: white;
+}
+.state--title {
+  text-align: center;
+}
+.state--value {
+  height: 70px;
+  margin-top: 80px;
+  margin-left: 350px;
+  text-align: center;
+  background-color: wheat;
+  width: 10%;
+  border-radius: 50%;
+  color: red;
+  cursor: pointer;
+}
+/* end of isGoingOut css */
+
+/* thingsArray css */
+/* .thingsArray--div {
+  width: 80%;
+  background-color: green;
+  margin: auto;
+}
+button {
+  width: 120px;
+  height: 50px;
+  border-radius: 50px;
+  margin-left: 500px;
+  border-color: white;
+  cursor: pointer;
+}
+p {
+  margin-left: 460px;
+  color: black;
+} */
+/* end of thingsArray css */
+
+/* CSS OF COMPLEX STATE: OBJECT */
+/* main {
+  max-width: 300px;
+  box-shadow: 0px 0px 20px 2px rgba(0, 0, 0, 0.1),
+    2px 2px 20px 2px rgba(0, 0, 0, 0.1);
+  margin: 10px auto;
+} */
+/* .card {
+  max-width: 345px;
+}
+.card--ifno {
+  max-width: 340px;
+}
+.card--image {
+  max-width: 340px;
+  max-height: 250px;
+  margin: auto 60px;
+  border-radius: 50%;
+}
+.card--favorite {
+  max-width: 30px;
+}
+.card--contact {
+  margin-left: 0;
+}  */
+
+/* END OF  COMPLEX STATE: OBJECT CSS */

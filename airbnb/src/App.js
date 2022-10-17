@@ -13,6 +13,8 @@ function App() {
       <Card
       key = {item.id}
       item = {item}
+      // spread operator it can apply on object as well as array but in an array it will apply on index wise
+      // {...item}
       // img ={item.coverImage}
       // rating = {item.stats.rating}
       // reviewCount = {item.stats.reviewCount}
